@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week 1
-by:Kennedi Freeman
+by: Kennedi Freeman
 ---
 
 During the first week, there was orientation day as well as a series of workshops. Students were placed in a specific workshop based off of their score on the placement test. Overall I placed well on the test, so I was put into Python 102. In that workshop we worked on making dictionaries and editing them. During week one, I met with my faculty and grad mentor to discuss what our project is and what is expected of me as a research intern. I can say that I am excited to dive into the project. 
