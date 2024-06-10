@@ -1,7 +1,11 @@
 ## About My Mentor
 
-My mentor, Dr. Chris Crawford from the University of Alabama, is a researcher who’s work focuses on Brain-Computer Interfaces, as well as Human-Robot Interaction. His work aims to leverage novel neurophysiological sensing technologies, software engineering, and robotics to create tools and applications that support the exploration of Brain-Robot Interaction.
-
-[Mentor's Website](https://htilua.org/about-the-pi)
+Dr. Cliston Cole Ph.D., Electrical Computer Engineering, with Additional Con-
+centration in Neuro-Engineering, University of Illinois, Urbana-Champaign.Dr.
+Cole’s research focuses on improving the quality of life for humans and pro-
+tecting cyber-physical systems in networks by developing advanced software
+and hardware systems for biological and communication applications, such
+as noise reduction and accelerating hardware for emerging hearing aids
+[Mentor's Website]()
 
 
