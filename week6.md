@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week 4
+title: Week 6
 author: Kennedi Freeman
 ---
 
